@@ -1,5 +1,5 @@
 URL del dataset de audios: https://www.kaggle.com/competitions/tensorflow-speech-recognition-challenge/data
-Las forma en que se estructura la carpeta de los datos es:
+La forma en que se estructura la carpeta de los datos es:
 > input
   > recognition
     > train
